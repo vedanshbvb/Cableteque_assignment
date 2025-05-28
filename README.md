@@ -3,7 +3,11 @@ Assignment for Cableteque
 
 To run:
 1. Clone git repo
-2. Install requirements
+   ```
+   https://github.com/vedanshbvb/Cableteque_assignment.git
+   cd Cableteque_assigment
+   ```   
+3. Install requirements
    ```
    pip install -r requirements.txt
    
